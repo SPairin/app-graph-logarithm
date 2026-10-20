@@ -243,7 +243,7 @@ st.sidebar.markdown("---")
 st.sidebar.latex(r"y = \alpha \log_a x + c")
 st.sidebar.caption("● = (1, c)   ◆ = (a, α + c)   ┄ = เส้นกำกับแนวตั้ง")
 
-st.title("📉 เรียนรู้กราฟฟังก์ชันลอการิทึม")
+st.title("📉 เรียนรู้กราฟฟังก์ชันลอการิทึม (ม.4 SCiUS UBU)")
 st.latex(r"y = \alpha \log_a x + c")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(
