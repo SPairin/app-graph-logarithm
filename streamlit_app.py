@@ -8,7 +8,7 @@ from plotly.colors import sample_colorscale
 import streamlit as st
 
 st.set_page_config(
-    page_title="เรียนรู้กราฟฟังก์ชันลอการิทึม",
+    page_title="เรียนรู้กราฟฟังก์ชันลอการิทึม (ม.4 SCiUS UBU)",
     page_icon="📉",
     layout="wide",
 )
